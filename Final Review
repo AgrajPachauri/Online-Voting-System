@@ -1,0 +1,17 @@
+Final Review and Testing (5 Marks)
+
+#Deployment
+
+Deploy the project on a Tomcat server.
+Verify all functionalities:
+  1. User registration.
+  2. User profile viewing.
+  3. JSP integration with Servlets.
+  4. Validation and responsiveness of the HTML templates.
+
+#Checklist for Review
+
+Database schema is complete.
+Servlets and JSP pages work seamlessly.
+All unit tests pass without errors.
+Maven build is successful with no dependency issues.
